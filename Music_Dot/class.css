@@ -1,0 +1,11 @@
+.titulo{
+    background-color: red;
+    font-size: 36px;
+    width: 300px;
+    
+}
+.subtitulo{
+    background-color: yellow;
+    font-size: 24px;
+    width: 200px;
+}
